@@ -20,10 +20,10 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+.seo {
     color: #d9dcd6;
 }
-
+/* changed reference to just .seo */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
